@@ -129,7 +129,8 @@ ion-icon {
   margin: 0 10px;
   font-size: 32px;
 }
-ion-icon:hover{
+
+ion-icon:hover {
   color: #30e3cb;
 }
 
